@@ -1,0 +1,62 @@
+Sublime:
+	to google:
+		sublime useful features
+		sublime useful commands
+		sublime hints
+		sublime for web developer
+		sublime tutorial
+
+
+HTML / CSS (вёрстка):
+	http://htmlbook.ru/      - статьи (начать с самоучителя html потом справочник)
+	https://htmlacademy.ru/  - статьи и курсы (почитать походить порешать)
+	to google:
+		html tutorial
+		html learn
+		html best practices
+		...
+
+
+Javascript
+	https://learn.javascript.ru/                                      - учебник   (читать конспект до 13 и можно приступить к codewars)
+	https://www.codewars.com/trainer/setup                            - упражнения (игрушка на время но не оч потом ! 13)
+	https://js.checkio.org/                                           - ещё упражнения (потом)
+	
+
+	https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference    - справочник (потом ) (объяснения сложных функций)
+	https://developer.mozilla.org                                     - справочник по всей веб разработки (потом прочитать всё подряд)
+
+
+Git:
+	1. https://githowto.com/ru
+	2. https://git-scm.com/              система контроля версий
+
+
+Курсы:
+	https://ru.hexlet.io            (платные и бес надо смотреть разбираться)  
+	https://egghead.io/q/html        (http курсы ищем обучаемся) 
+
+
+HTTP:
+	to google + courses above + https://developer.mozilla.org/ru/docs/Web/HTTP (начинаем с курсов смотри выше)
+
+
+--- Browser devtools
+F12, Ctrl-Shift-I   - open dev tools
+Esc                 - open console
+Shift-Enter         - multiline in console
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
