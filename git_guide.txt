@@ -6,3 +6,6 @@ git remote add origin https://github.com/VikIvanov239/html_css.git  подгот
 git push                                - заливаем на аккаунт в github(первый пуш сложный)
 git status                              - проверяем состояние репозитория (в любой непонятной ситуации)
 git checkout .                          - вернули в состояние последней фиксации(commit-а).
+
+git clone git@github.com:VikIvanov239/support.git     скачиваем репозиторий на другой компьютер.
+git pull                                         достаем  новые фиксации из облака на на данный компьютер.
